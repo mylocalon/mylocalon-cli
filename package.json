@@ -1,6 +1,6 @@
 {
   "name": "mylocalon",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "mylocalon CLI — expose localhost over a public URL",
   "license": "MIT",
   "type": "module",
