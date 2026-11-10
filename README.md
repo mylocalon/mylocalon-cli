@@ -16,7 +16,7 @@ Requires Node.js 20 or newer.
 |---|---|
 | `mylocalon login` | Sign in through the browser; saves an API key to `~/.mylocalon` |
 | `mylocalon http <port>` | Share `http://localhost:<port>` publicly |
-| `mylocalon http <port> --subdomain myapp` | Use a subdomain you reserved at https://mylocalon.com/subdomains |
+| `mylocalon http <port> --subdomain myapp` | Use a subdomain you reserved at https://mylocalon.com/dashboard/subdomains |
 | `mylocalon http https://localhost:8443` | Share an HTTPS dev server |
 | `mylocalon status` / `logout` | Show or clear saved credentials |
 
